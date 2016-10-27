@@ -10,7 +10,7 @@ Run in this directory:
 
     $ docker-compose up
 
-The app will be running at [http://localhost:5000](http://localhost:5000), and the results will be at [http://localhost:5001](http://localhost:5001).
+The app will be running at [http://#nodePublicIPAddress#](http://#nodePublicIPAddress#), and the results will be at [http://#nodePublicIPAddress#:8080](http://#nodePublicIPAddress#:8080).
 
 Architecture
 -----
